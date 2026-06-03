@@ -10,7 +10,7 @@ Hi👋 I'm dell, i'm python and java backend developer
 
 <!-- Кнопки социальных сетей (Badges) -->
 <p align="center">
-  <a href="ВАША_ССЫЛКА"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://yandex.ru/images/touch/search?text=%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80+%D0%A1.%D0%A1.+%D0%BA%D0%BE%D0%B4+%D0%B3%D0%B8%D0%B0%D1%81&img_url=https%3A%2F%2Fcdn.bsky.app%2Fimg%2Fbanner%2Fplain%2Fdid%3Aplc%3Aimh3gsykoy63niyyetbjezkz%2Fbafkreics624o4zj3hqxbou63dilmj43rwxx7zb4hjwvyfqtksffheb6mqu%40jpeg&pos=3&rpt=simage&parent-reqid=1780500436509284-1053720653833249042-balancer-l7leveler-kubr-yp-vla-186-BAL&source=serp"><img src="https://shields.io" alt="LinkedIn"></a>
   <a href="ВАША_ССЫЛКА"><img src="https://shields.io" alt="Codeforces"></a>
   <a href="ВАША_ССЫЛКА"><img src="https://shields.io" alt="Chess"></a>
 </p>
