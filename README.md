@@ -10,7 +10,7 @@ Hi👋 I'm dell, i'm python and java backend developer
 
 <!-- Кнопки социальных сетей (Badges) -->
 <p align="center">
-  <a href="">https://ibb.co/nscdZPw8<img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://ibb.co/nscdZPw8"><img src="https://shields.io" alt="LinkedIn"></a>
   <a href="https://yandex.ru/images/touch/search?pos=3&img_url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-yyjE5fpbN5Z6W3Gh-blJCGg-t1080x1080.jpg&text=+%D0%A1.%D0%A1.+%D0%BA%D0%BE%D0%B4+%D0%B3%D0%B8%D0%B0%D1%81&rpt=simage&lr=967"><img src="https://shields.io" alt="Codeforces"></a>
   <a href="ВАША_ССЫЛКА"><img src="https://shields.io" alt="Chess"></a>
 </p>
