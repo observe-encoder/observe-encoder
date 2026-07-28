@@ -23,9 +23,9 @@ Hi👋 I'm dell, i'm python and java backend developer
     <td width="60%" valign="top">
       <p>Hi! I'm <b>Dell</b>, python and java developer i like vs code and open tv!</p>
       <ul>
-        <li>🎓 learn in china</li>
-        <li>💻 coding in mac</li>
-        <li>☕️ and drink coffee </li>
+        <li>🎓 learn in budapest</li>
+        <li>💻 CS engineer</li>
+        <li>☕️ I'm a junior developer (py, java) and CS engineer </li>
       </ul>
     </td>
     <td width="40%" valign="top">
