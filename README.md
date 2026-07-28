@@ -21,7 +21,7 @@ Hi👋 I'm Raymond, i'm CS engineer and jun developer
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>Hi! I'm <b>Dell</b>, python and java developer i like vs code and open tv!</p>
+      <p>Hi! I'm <b>Raymond</b>, CS engineer and python jun developer🪪</p>
       <ul>
         <li>🎓 learn in budapest</li>
         <li>💻 CS engineer</li>
@@ -37,14 +37,7 @@ Hi👋 I'm Raymond, i'm CS engineer and jun developer
 
 <h2 align="center">🛠️ Technologies</h2>
 
-<!-- Иконки технологий (Используются Shields.io) -->
-<p align="center">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</p>
+
 
 <h2 align="center">📊 Statistics</h2>
 
